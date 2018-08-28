@@ -1,2 +1,5 @@
 # BomberGirl
-School Project of Modul 426, Bomberman in a web application
+
+Project from:
+
+Denis Rykart, Mike Meier, Dylan Schmid, Zoe Abeln, Nadine Moser, Jens Scheidmann, Theotor Spring ,Steven Ringger & & Robin Furrer
